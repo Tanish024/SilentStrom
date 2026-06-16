@@ -1,0 +1,2469 @@
+[
+  {
+    "id": "CA-0009",
+    "text": "SBI KYC Verify naam ka app tha, install karne ke baad screen sharing start ho gayi aur ₹50,000 nikal liye account se.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "CB-0021",
+    "text": "Applied for personal loan on Easy Loan Approval app. They asked for ₹1,00,000 processing fee via UPI. Never got loan.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "CA-0012",
+    "text": "Caller said my SBI account will be frozen without KYC. SBI KYC Verify app ne remote access liya aur ₹30,000 transfer kiye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "en",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "CD-0054",
+    "text": "Flipkart Delivery Failed SMS mila. Reschedule button pe click kiya. Fake payment page se ₹45,000 kata.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CD-0045",
+    "text": "Amazon Delivery Failed phishing — clicked link, page asked for net banking login. ₹18,000 transferred out.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "en",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "CC-0040",
+    "text": "SEBI Trading se SIP jaise invest kiya ₹75,000. Dashboard me ₹1,500 dikh raha hai but withdrawal pe aur fee maang rahe.",
+    "upi_ids_raw": [
+      "profit.guru@paytm",
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "CD-0037",
+    "text": "Amazon parcel failed delivery ka message WhatsApp pe aaya. Link pe jaake details diye. ₹30,000 stolen.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CA-0043",
+    "text": "Mujhe SMS aaya SBI KYC update karo warna account block ho jayega. App install kiya aur ₹35,000 nikal liye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CB-0048",
+    "text": "PM Loan App se ₹2 lakh ka loan apply kiya. Processing ₹10,000 aur insurance ₹1,500 li phir block kar diya.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "en",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "CD-0053",
+    "text": "Amazon package undelivered ka email. Link pe jaake bank details di. ₹30,000 immediately debited ho gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "CC-0029",
+    "text": "Friend referred Stock Profit Pro for crypto trading. Put ₹20,000 in. Fake dashboard shows profits. Money is stuck.",
+    "upi_ids_raw": [
+      "profit.guru@paytm",
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "en",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "CD-0038",
+    "text": "Flipkart Delivery Failed email mila with tracking number. Clicked reschedule, entered UPI, ₹75,000 debited.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "CD-0050",
+    "text": "Flipkart se delivery failed ka automated call aaya. IVR me details diye. ₹50,000 ka unauthorized charge hua.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "en",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CB-0034",
+    "text": "PM Loan App pe loan approved status tha. ₹30,000 insurance mandatory bola. Paid and app stopped working.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "en",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CB-0044",
+    "text": "PM Loan App pe loan sanctioned dikha raha tha. Insurance fee ₹50,000 maangi, di, phir aur ₹3,000 verification fee maangi.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "CC-0001",
+    "text": "Invested ₹18,000 in Stock Profit Pro app. Initially showed 200% returns. When tried to withdraw, asked for more deposit.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl",
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "hi",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0002",
+    "text": "Flipkart delivery failed ka message aaya. Form fill kiya with UPI PIN. Account se ₹10,000 kat gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "en",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "CC-0016",
+    "text": "SEBI Trading app had my PAN and bank details. They invested ₹12,000 and now claim ₹4,500 penalty for early exit.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl",
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "CA-0004",
+    "text": "HDFC Bank KYC verification ke naam pe fraud hua. HDFC KYC Verify app se OTP liya aur ₹15,000 le gaye.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "en",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CA-0031",
+    "text": "Bank KYC update ke baare mein call aaya. HDFC KYC Verify install kiya, 2 OTP share kiye aur ₹5,000 gaye.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "en",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "CC-0004",
+    "text": "SEBI Trading naam se trading app tha. ₹50,000 invest kiya, fake profits dikhaye, aur jab nikalne gaya toh block kar diya.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "CB-0033",
+    "text": "Easy Loan Approval se personal loan lena tha, ₹45,000 processing fee di lekin account mei kuch nahi aaya.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "en",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CD-0047",
+    "text": "Amazon se call aaya delivery failed hai, refund ke liye app install karo. App installed karke ₹35,000 le gaye.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "en",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CD-0046",
+    "text": "Flipkart parcel delivery failed ka SMS. Paid ₹75,000 customs/redelivery on fake page. Money gone.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CB-0010",
+    "text": "PM Loan App ka ad dekha Instagram pe. Loan ke liye apply kiya, ₹10,000 registration fee li, scam nikla.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0034",
+    "text": "Flipkart se delivery attempt failed ka mail aaya. Link open kiya, OTP diya aur ₹30,000 fraud hua.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "CA-0010",
+    "text": "Got WhatsApp message about SBI KYC mandatory update. Downloaded SBI KYC Verify app from link. ₹15,000 debited immediately.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "en",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "CB-0025",
+    "text": "Loan ke liye Easy Loan Approval pe apply kiya, ₹12,000 GST fee ke naam pe liya aur loan kabhi nahi mila.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi",
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CA-0013",
+    "text": "HDFC KYC ke naam pe link bheja WhatsApp pe. HDFC KYC Verify install karne ke baad ₹45,000 fraud hua.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CB-0009",
+    "text": "Easy Loan Approval scam — first ₹30,000 processing, then ₹1,500 verification, then ₹1,500 GST. Total fraud.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "en",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "CB-0017",
+    "text": "Easy Loan Approval told me CIBIL verified, loan ready. Just pay ₹18,000 disbursement charge. Paid, nothing happened.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "CA-0044",
+    "text": "HDFC Bank KYC verification ke naam pe fraud hua. HDFC KYC Verify app se OTP liya aur ₹30,000 le gaye.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CA-0036",
+    "text": "KYC update ka bahana dekar HDFC KYC Verify app install karwaya. UPI se ₹18,000 aur credit card se ₹2,000 ka fraud.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CD-0015",
+    "text": "Amazon Delivery Failed phishing — clicked link, page asked for net banking login. ₹5,000 transferred out.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "en",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CC-0012",
+    "text": "SEBI Trading platform asked ₹35,000 initial investment. After 2 weeks demanded ₹4,500 upgrade fee for withdrawal access.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "CB-0002",
+    "text": "PM Loan App se loan apply kiya tha. ₹45,000 advance fee maangi, bheja, phir number band ho gaya.",
+    "upi_ids_raw": [
+      "loan.help99@paytm",
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CC-0007",
+    "text": "Stock Profit Pro sent me daily profit screenshots. I invested ₹30,000. When I asked for withdrawal, they demanded ₹4,500 tax fee.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi",
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "CC-0034",
+    "text": "SEBI Trading se commodity trading ka offer mila. ₹15,000 invest kiya, ab koi response nahi aa raha.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "CB-0011",
+    "text": "Loan app Easy Loan Approval ne documents liye aur ₹12,000 advance charge kiya. No disbursement. Fraud hai.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl",
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "CD-0028",
+    "text": "Flipkart delivery failed. Refund ke liye call kiya toh fake customer care ne ₹18,000 le liye UPI se.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0012",
+    "text": "Flipkart Delivery Failed ka notification aaya. Reschedule ke liye ₹35,000 pay kiya. Order toh exist hi nahi karta.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CC-0002",
+    "text": "SEBI Trading platform pe ₹35,000 invest kiya. Profits dikh rahe the. Withdrawal ke liye ₹2,500 tax maangi.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CC-0038",
+    "text": "SEBI Trading pe gold trading ka plan tha. ₹40,000 invest kiya. Withdrawal locked. Support number is fake.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CA-0050",
+    "text": "Got WhatsApp message about SBI KYC mandatory update. Downloaded SBI KYC Verify app from link. ₹8,000 debited immediately.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "en",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "CD-0059",
+    "text": "Received Amazon Delivery Failed text with link. Page asked phone number and OTP. ₹8,000 debited.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "CA-0019",
+    "text": "SBI KYC update scam — caller guided me through SBI KYC Verify app. I entered OTP and ₹50,000 vanished.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "CB-0029",
+    "text": "Easy Loan Approval scam — first ₹40,000 processing, then ₹4,000 verification, then ₹4,000 GST. Total fraud.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CC-0028",
+    "text": "SEBI Trading pe IPO investment ka offer tha. ₹15,000 invest kiya. Returns dikhaye lekin withdrawal ke liye aur paisa maanga.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "hi",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CD-0005",
+    "text": "Amazon Delivery Failed SMS se phishing link tha. Address confirm karne pe UPI se ₹75,000 nikal gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "CB-0012",
+    "text": "PM Loan App offered pre-approved loan. Required ₹35,000 stamp duty via UPI. Money gone, no loan received.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CB-0003",
+    "text": "Easy Loan Approval app ne instant loan ka offer diya. Processing fee ₹1,00,000 UPI se li aur phir app hi band ho gaya.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "en",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "CD-0013",
+    "text": "Amazon se delivery failed bola. WhatsApp pe link bheja. Address update karne pe ₹25,000 deducted via UPI.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CC-0025",
+    "text": "Invested ₹50,000 via Stock Profit Pro after seeing returns in WhatsApp group. All fake. Withdrawal is locked.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "en",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "CC-0015",
+    "text": "Joined Stock Profit Pro VIP group. Invested ₹50,000 following their calls. All trades were fake. Money gone.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi",
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "CB-0039",
+    "text": "Mujhe Easy Loan Approval se call aaya, ₹3 lakh loan offer kiya. ₹1,00,000 processing fee UPI se le gaye.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CB-0015",
+    "text": "Applied through Easy Loan Approval for emergency loan. Paid ₹20,000 for credit check. Total fraud, blocked my number.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "hi",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CD-0001",
+    "text": "Got SMS saying Amazon delivery failed. Clicked link, entered address and card details. ₹35,000 debited from account.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CB-0032",
+    "text": "PM Loan App offered pre-approved loan. Required ₹45,000 stamp duty via UPI. Money gone, no loan received.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "en",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CA-0003",
+    "text": "Mujhe SMS aaya SBI KYC update karo warna account block ho jayega. App install kiya aur ₹12,000 nikal liye.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "en",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CC-0027",
+    "text": "Stock Profit Pro sent me daily profit screenshots. I invested ₹15,000. When I asked for withdrawal, they demanded ₹1,500 tax fee.",
+    "upi_ids_raw": [
+      "profit.guru@paytm",
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0026",
+    "text": "Flipkart se bola delivery fail, ₹25,000 re-attempt fee do. UPI se pay kiya. Order number fake tha.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CA-0026",
+    "text": "KYC update ke liye HDFC se bola, HDFC KYC Verify app install karwaya, OTP maanga aur ₹8,000 UPI se transfer ho gaye.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "CA-0005",
+    "text": "Someone posing as SBI called about KYC expiry. Made me download SBI KYC Verify app. Lost ₹10,000 via UPI.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "en",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CA-0046",
+    "text": "KYC update ke liye HDFC se bola, HDFC KYC Verify app install karwaya, OTP maanga aur ₹35,000 UPI se transfer ho gaye.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CD-0016",
+    "text": "Flipkart parcel delivery failed ka SMS. Paid ₹50,000 customs/redelivery on fake page. Money gone.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CA-0049",
+    "text": "SBI KYC Verify naam ka app tha, install karne ke baad screen sharing start ho gayi aur ₹25,000 nikal liye account se.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "CA-0017",
+    "text": "Fake call about SBI KYC expiry. Installed SBI KYC Verify, they got AnyDesk access and transferred ₹15,000 out.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CA-0023",
+    "text": "Mujhe SMS aaya SBI KYC update karo warna account block ho jayega. App install kiya aur ₹75,000 nikal liye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "CD-0017",
+    "text": "Amazon se call aaya delivery failed hai, refund ke liye app install karo. App installed karke ₹75,000 le gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "CB-0014",
+    "text": "PM Loan App pe loan approved status tha. ₹50,000 insurance mandatory bola. Paid and app stopped working.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CC-0013",
+    "text": "Stock Profit Pro promised 5x returns on intraday trades. Invested ₹12,000 total over a month. Complete fraud.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CD-0043",
+    "text": "Amazon se delivery failed bola. WhatsApp pe link bheja. Address update karne pe ₹8,000 deducted via UPI.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CD-0022",
+    "text": "Flipkart wala bolke call kiya, delivery failed hai refund denge. UPI collect bheja ₹12,000 ka. Galti se approve kar diya.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "CA-0038",
+    "text": "Maine HDFC KYC Verify app install kiya bank ke naam pe, phir unka agent UPI se ₹25,000 le gaya.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "CA-0033",
+    "text": "HDFC KYC ke naam pe link bheja WhatsApp pe. HDFC KYC Verify install karne ke baad ₹10,000 fraud hua.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CC-0037",
+    "text": "Stock Profit Pro mein forex trading kiya. ₹10,000 lagaye the, app ne fake profit dikhaya aur block kar diya.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi",
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CC-0023",
+    "text": "Stock Profit Pro app showed my portfolio growing daily. Put in ₹18,000 total. Cannot withdraw. App customer care unreachable.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "CA-0039",
+    "text": "SBI KYC update scam — caller guided me through SBI KYC Verify app. I entered OTP and ₹1,00,000 vanished.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "en",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CD-0027",
+    "text": "Amazon Delivery Failed SMS laga genuine. Link pe address update karne gaya. Background me ₹12,000 UPI se nikal gaye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CA-0001",
+    "text": "SBI se call aaya ki KYC expire ho gaya hai. SBI KYC Verify app download karke OTP diya, phir account se ₹8,000 kat gaye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CC-0035",
+    "text": "Joined Stock Profit Pro VIP group. Invested ₹35,000 following their calls. All trades were fake. Money gone.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "CC-0020",
+    "text": "SEBI Trading se SIP jaise invest kiya ₹50,000. Dashboard me ₹3,500 dikh raha hai but withdrawal pe aur fee maang rahe.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "CB-0001",
+    "text": "Applied for personal loan on Easy Loan Approval app. They asked for ₹1,00,000 processing fee via UPI. Never got loan.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "hi",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "CA-0029",
+    "text": "SBI KYC Verify naam ka app tha, install karne ke baad screen sharing start ho gayi aur ₹25,000 nikal liye account se.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CA-0006",
+    "text": "KYC update ke liye HDFC se bola, HDFC KYC Verify app install karwaya, OTP maanga aur ₹18,000 UPI se transfer ho gaye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "en",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CC-0026",
+    "text": "SEBI Trading app promised guaranteed returns. Invested ₹35,000 in 3 installments. Dashboard shows ₹3,000 profit but cannot withdraw.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi",
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "CB-0036",
+    "text": "PM Loan App ne pehle ₹75,000 registration fee li, phir ₹4,500 legal fee maangi. Sab fraud tha.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi",
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CB-0018",
+    "text": "PM Loan App WhatsApp pe ad tha. ₹20,000 file opening fee di. Loan sanction letter bhi fake nikla.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "en",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "CC-0005",
+    "text": "Invested ₹1,00,000 via Stock Profit Pro after seeing returns in WhatsApp group. All fake. Withdrawal is locked.",
+    "upi_ids_raw": [
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CB-0026",
+    "text": "Got SMS about instant loan from PM Loan App. Paid ₹20,000 processing fee. No loan disbursed. Phone unreachable now.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CB-0042",
+    "text": "PM Loan App se loan apply kiya tha. ₹45,000 advance fee maangi, bheja, phir number band ho gaya.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi",
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "CD-0048",
+    "text": "Flipkart Delivery Failed notification mila. Verification ke liye OTP diya. Account se ₹12,000 nikal liye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "CC-0036",
+    "text": "SEBI Trading app had my PAN and bank details. They invested ₹5,000 and now claim ₹3,500 penalty for early exit.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl",
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "en",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "CB-0049",
+    "text": "Easy Loan Approval scam — first ₹18,000 processing, then ₹4,000 verification, then ₹4,000 GST. Total fraud.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "CC-0033",
+    "text": "Stock Profit Pro promised 5x returns on intraday trades. Invested ₹75,000 total over a month. Complete fraud.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "CA-0045",
+    "text": "Someone posing as SBI called about KYC expiry. Made me download SBI KYC Verify app. Lost ₹35,000 via UPI.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "CA-0015",
+    "text": "I complained about SBI KYC Verify app fraud. They took my Aadhaar, PAN via the app and transferred ₹18,000 using UPI.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "CD-0057",
+    "text": "Amazon Delivery Failed SMS laga genuine. Link pe address update karne gaya. Background me ₹8,000 UPI se nikal gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "CC-0018",
+    "text": "SEBI Trading pe gold trading ka plan tha. ₹15,000 invest kiya. Withdrawal locked. Support number is fake.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "CD-0020",
+    "text": "Flipkart se delivery failed ka automated call aaya. IVR me details diye. ₹50,000 ka unauthorized charge hua.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CD-0033",
+    "text": "Amazon Delivery Failed ka SMS mila. Link pe click kiya, reschedule ke liye ₹20,000 charge hua aur paise chale gaye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "CB-0004",
+    "text": "PM Loan App pe loan sanctioned dikha raha tha. Insurance fee ₹30,000 maangi, di, phir aur ₹2,500 verification fee maangi.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "en",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CC-0031",
+    "text": "Stock Profit Pro mentor added me on Telegram. Guided trades, made me invest ₹40,000. Now says pay ₹3,000 to unlock.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "CB-0028",
+    "text": "PM Loan App se ₹2 lakh ka loan apply kiya. Processing ₹30,000 aur insurance ₹5,000 li phir block kar diya.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl",
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CB-0013",
+    "text": "Easy Loan Approval se personal loan lena tha, ₹5,000 processing fee di lekin account mei kuch nahi aaya.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi",
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0024",
+    "text": "Flipkart Delivery Failed SMS mila. Reschedule button pe click kiya. Fake payment page se ₹12,000 kata.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CD-0039",
+    "text": "Amazon Delivery Failed SMS with fake tracking link. Entered card CVV for verification. ₹35,000 unauthorized transaction.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "CB-0007",
+    "text": "Easy Loan Approval app said my CIBIL is approved for ₹5 lakh loan. Asked ₹5,000 file charge. Total scam.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "en",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "CA-0035",
+    "text": "I complained about SBI KYC Verify app fraud. They took my Aadhaar, PAN via the app and transferred ₹75,000 using UPI.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "en",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CC-0019",
+    "text": "Stock Profit Pro Telegram group me add kiya. Daily tips diye, ₹45,000 invest karwaya. Sab fraud nikla.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "CD-0010",
+    "text": "Flipkart delivery issue ka call aaya. Agent ne refund ke baahane UPI collect request bheja. ₹40,000 chala gaya.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "CD-0025",
+    "text": "Got Amazon delivery issue call. Caller asked to share screen via AnyDesk for refund. They transferred ₹1,00,000 out.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "CD-0042",
+    "text": "Flipkart Delivery Failed ka notification aaya. Reschedule ke liye ₹25,000 pay kiya. Order toh exist hi nahi karta.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CC-0032",
+    "text": "SEBI Trading platform asked ₹75,000 initial investment. After 2 weeks demanded ₹2,500 upgrade fee for withdrawal access.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "CA-0021",
+    "text": "SBI se call aaya ki KYC expire ho gaya hai. SBI KYC Verify app download karke OTP diya, phir account se ₹50,000 kat gaye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CA-0020",
+    "text": "HDFC wala bolke KYC ke liye call kiya, HDFC KYC Verify app download karwaya. Account se ₹30,000 gaye.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CD-0009",
+    "text": "Amazon Delivery Failed SMS with fake tracking link. Entered card CVV for verification. ₹75,000 unauthorized transaction.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CC-0014",
+    "text": "SEBI Trading se commodity trading ka offer mila. ₹30,000 invest kiya, ab koi response nahi aa raha.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl",
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CA-0011",
+    "text": "Bank KYC update ke baare mein call aaya. HDFC KYC Verify install kiya, 2 OTP share kiye aur ₹40,000 gaye.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CB-0027",
+    "text": "Easy Loan Approval app said my CIBIL is approved for ₹5 lakh loan. Asked ₹35,000 file charge. Total scam.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "CB-0023",
+    "text": "Easy Loan Approval app ne instant loan ka offer diya. Processing fee ₹35,000 UPI se li aur phir app hi band ho gaya.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl",
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CC-0021",
+    "text": "Invested ₹5,000 in Stock Profit Pro app. Initially showed 200% returns. When tried to withdraw, asked for more deposit.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "CB-0050",
+    "text": "PM Loan App ka ad dekha Instagram pe. Loan ke liye apply kiya, ₹75,000 registration fee li, scam nikla.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CA-0042",
+    "text": "Got a call from someone claiming to be HDFC Bank, asked to install HDFC KYC Verify app for KYC update. After sharing OTP, ₹40,000 was debited from my account.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CB-0043",
+    "text": "Easy Loan Approval app ne instant loan ka offer diya. Processing fee ₹50,000 UPI se li aur phir app hi band ho gaya.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CD-0023",
+    "text": "Amazon package undelivered ka email. Link pe jaake bank details di. ₹35,000 immediately debited ho gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "CA-0048",
+    "text": "Received call from +91-9123456780 about HDFC KYC. Installed HDFC KYC Verify and shared OTP. ₹12,000 stolen from my savings.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CA-0041",
+    "text": "SBI se call aaya ki KYC expire ho gaya hai. SBI KYC Verify app download karke OTP diya, phir account se ₹15,000 kat gaye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "CB-0038",
+    "text": "PM Loan App WhatsApp pe ad tha. ₹25,000 file opening fee di. Loan sanction letter bhi fake nikla.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi",
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "CC-0017",
+    "text": "Stock Profit Pro mein forex trading kiya. ₹30,000 lagaye the, app ne fake profit dikhaya aur block kar diya.",
+    "upi_ids_raw": [
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "CC-0008",
+    "text": "SEBI Trading pe IPO investment ka offer tha. ₹75,000 invest kiya. Returns dikhaye lekin withdrawal ke liye aur paisa maanga.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "CB-0047",
+    "text": "Easy Loan Approval app said my CIBIL is approved for ₹5 lakh loan. Asked ₹35,000 file charge. Total scam.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "en",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CB-0006",
+    "text": "Got SMS about instant loan from PM Loan App. Paid ₹1,00,000 processing fee. No loan disbursed. Phone unreachable now.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CD-0049",
+    "text": "Fake Amazon delivery SMS. Link looked legit. Entered debit card info for redelivery. ₹50,000 debited next day.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "CD-0030",
+    "text": "Flipkart Delivery Failed ka WhatsApp msg. Link se form bhara, card details diye. ₹50,000 ka transaction hua.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "CC-0039",
+    "text": "Stock Profit Pro Telegram group me add kiya. Daily tips diye, ₹20,000 invest karwaya. Sab fraud nikla.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "CD-0052",
+    "text": "Flipkart wala bolke call kiya, delivery failed hai refund denge. UPI collect bheja ₹10,000 ka. Galti se approve kar diya.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "CC-0003",
+    "text": "Stock Profit Pro app showed my portfolio growing daily. Put in ₹25,000 total. Cannot withdraw. App customer care unreachable.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "hi-en",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "CA-0037",
+    "text": "Fake call about SBI KYC expiry. Installed SBI KYC Verify, they got AnyDesk access and transferred ₹10,000 out.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "CD-0006",
+    "text": "Got fake Flipkart delivery notification. Said package held at warehouse. Paid ₹15,000 redelivery charge. Total scam.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CA-0002",
+    "text": "Got a call from someone claiming to be HDFC Bank, asked to install HDFC KYC Verify app for KYC update. After sharing OTP, ₹8,000 was debited from my account.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "CD-0019",
+    "text": "Fake Amazon delivery SMS. Link looked legit. Entered debit card info for redelivery. ₹1,00,000 debited next day.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "CB-0037",
+    "text": "Easy Loan Approval told me CIBIL verified, loan ready. Just pay ₹15,000 disbursement charge. Paid, nothing happened.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi",
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "en",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "CD-0029",
+    "text": "Received Amazon Delivery Failed text with link. Page asked phone number and OTP. ₹35,000 debited.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "CB-0020",
+    "text": "PM Loan App se government loan scheme ka jhansa diya. ₹50,000 advance fee li aur gayab ho gaye.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "en",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CA-0047",
+    "text": "Fake SBI customer care ne KYC ke naam pe SBI KYC Verify app install karwaya. ₹30,000 ka fraud hua meri UPI ID se.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CA-0008",
+    "text": "Received call from +91-8899001122 about HDFC KYC. Installed HDFC KYC Verify and shared OTP. ₹1,00,000 stolen from my savings.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CB-0019",
+    "text": "Mujhe Easy Loan Approval se call aaya, ₹3 lakh loan offer kiya. ₹15,000 processing fee UPI se le gaye.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CA-0007",
+    "text": "Fake SBI customer care ne KYC ke naam pe SBI KYC Verify app install karwaya. ₹8,000 ka fraud hua meri UPI ID se.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CD-0018",
+    "text": "Flipkart Delivery Failed notification mila. Verification ke liye OTP diya. Account se ₹1,00,000 nikal liye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CD-0040",
+    "text": "Flipkart delivery issue ka call aaya. Agent ne refund ke baahane UPI collect request bheja. ₹40,000 chala gaya.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "en",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CD-0060",
+    "text": "Flipkart Delivery Failed ka WhatsApp msg. Link se form bhara, card details diye. ₹75,000 ka transaction hua.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CD-0021",
+    "text": "Amazon Delivery Failed ke naam pe SMS link bheja. Maine click kiya aur card details diye. ₹18,000 fraud hua.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CD-0007",
+    "text": "Amazon parcel failed delivery ka message WhatsApp pe aaya. Link pe jaake details diye. ₹10,000 stolen.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "CB-0022",
+    "text": "PM Loan App se loan apply kiya tha. ₹30,000 advance fee maangi, bheja, phir number band ho gaya.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CA-0030",
+    "text": "Got WhatsApp message about SBI KYC mandatory update. Downloaded SBI KYC Verify app from link. ₹5,000 debited immediately.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CB-0045",
+    "text": "Loan ke liye Easy Loan Approval pe apply kiya, ₹5,000 GST fee ke naam pe liya aur loan kabhi nahi mila.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CD-0044",
+    "text": "Got Flipkart delivery attempt failed SMS. Entered details on phishing site. ₹12,000 taken from my bank.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "en",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CB-0040",
+    "text": "PM Loan App se government loan scheme ka jhansa diya. ₹10,000 advance fee li aur gayab ho gaye.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CA-0028",
+    "text": "Received call from +91-9123456780 about HDFC KYC. Installed HDFC KYC Verify and shared OTP. ₹12,000 stolen from my savings.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CB-0008",
+    "text": "PM Loan App se ₹2 lakh ka loan apply kiya. Processing ₹25,000 aur insurance ₹4,500 li phir block kar diya.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl",
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CC-0024",
+    "text": "SEBI Trading naam se trading app tha. ₹20,000 invest kiya, fake profits dikhaye, aur jab nikalne gaya toh block kar diya.",
+    "upi_ids_raw": [
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "9090909090"
+    ],
+    "language": "hi",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "CD-0055",
+    "text": "Got Amazon delivery issue call. Caller asked to share screen via AnyDesk for refund. They transferred ₹75,000 out.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CB-0005",
+    "text": "Loan ke liye Easy Loan Approval pe apply kiya, ₹18,000 GST fee ke naam pe liya aur loan kabhi nahi mila.",
+    "upi_ids_raw": [
+      "loan.help99@paytm",
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CC-0030",
+    "text": "SEBI Trading app ne mutual fund ke naam pe ₹15,000 liye. Profit dikha raha hai lekin withdraw nahi ho raha.",
+    "upi_ids_raw": [
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "CD-0008",
+    "text": "Flipkart Delivery Failed email mila with tracking number. Clicked reschedule, entered UPI, ₹75,000 debited.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CA-0027",
+    "text": "Fake SBI customer care ne KYC ke naam pe SBI KYC Verify app install karwaya. ₹40,000 ka fraud hua meri UPI ID se.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "sbi.update2024@oksbi"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CD-0035",
+    "text": "Amazon Delivery Failed SMS se phishing link tha. Address confirm karne pe UPI se ₹75,000 nikal gaye.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "en",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "CB-0030",
+    "text": "PM Loan App ka ad dekha Instagram pe. Loan ke liye apply kiya, ₹50,000 registration fee li, scam nikla.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "9988776655"
+    ],
+    "language": "en",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "CD-0014",
+    "text": "Got Flipkart delivery attempt failed SMS. Entered details on phishing site. ₹10,000 taken from my bank.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CB-0024",
+    "text": "PM Loan App pe loan sanctioned dikha raha tha. Insurance fee ₹20,000 maangi, di, phir aur ₹4,000 verification fee maangi.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CA-0014",
+    "text": "SBI se bolke KYC re-verification ke liye call kiya. SBI KYC Verify app se personal details liye aur ₹20,000 chori.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "CC-0009",
+    "text": "Friend referred Stock Profit Pro for crypto trading. Put ₹10,000 in. Fake dashboard shows profits. Money is stuck.",
+    "upi_ids_raw": [
+      "profit.guru@paytm"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "en",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "CD-0058",
+    "text": "Flipkart delivery failed. Refund ke liye call kiya toh fake customer care ne ₹20,000 le liye UPI se.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "en",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "CB-0041",
+    "text": "Applied for personal loan on Easy Loan Approval app. They asked for ₹25,000 processing fee via UPI. Never got loan.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "hi",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CC-0006",
+    "text": "SEBI Trading app promised guaranteed returns. Invested ₹12,000 in 3 installments. Dashboard shows ₹2,000 profit but cannot withdraw.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi",
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "hi",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "CA-0032",
+    "text": "Caller said my SBI account will be frozen without KYC. SBI KYC Verify app ne remote access liya aur ₹30,000 transfer kiye.",
+    "upi_ids_raw": [
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CD-0032",
+    "text": "Flipkart delivery failed ka message aaya. Form fill kiya with UPI PIN. Account se ₹35,000 kat gaye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "CB-0035",
+    "text": "Applied through Easy Loan Approval for emergency loan. Paid ₹10,000 for credit check. Total fraud, blocked my number.",
+    "upi_ids_raw": [
+      "loan.help99@paytm",
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "CD-0041",
+    "text": "Fake Amazon delivery failed text. Link opened a page that looked exactly like Amazon. Entered details, lost ₹25,000.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "en",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "CD-0004",
+    "text": "Flipkart se delivery attempt failed ka mail aaya. Link open kiya, OTP diya aur ₹20,000 fraud hua.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "en",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "CD-0011",
+    "text": "Fake Amazon delivery failed text. Link opened a page that looked exactly like Amazon. Entered details, lost ₹18,000.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "CA-0016",
+    "text": "KYC update ka bahana dekar HDFC KYC Verify app install karwaya. UPI se ₹10,000 aur credit card se ₹3,500 ka fraud.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CD-0003",
+    "text": "Amazon Delivery Failed ka SMS mila. Link pe click kiya, reschedule ke liye ₹40,000 charge hua aur paise chale gaye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "CA-0034",
+    "text": "SBI se bolke KYC re-verification ke liye call kiya. SBI KYC Verify app se personal details liye aur ₹8,000 chori.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "en",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CD-0056",
+    "text": "Flipkart se bola delivery fail, ₹1,00,000 re-attempt fee do. UPI se pay kiya. Order number fake tha.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "CA-0025",
+    "text": "Someone posing as SBI called about KYC expiry. Made me download SBI KYC Verify app. Lost ₹1,00,000 via UPI.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "CC-0011",
+    "text": "Stock Profit Pro mentor added me on Telegram. Guided trades, made me invest ₹75,000. Now says pay ₹3,000 to unlock.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "8181818181"
+    ],
+    "language": "en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0051",
+    "text": "Amazon Delivery Failed ke naam pe SMS link bheja. Maine click kiya aur card details diye. ₹18,000 fraud hua.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "CA-0022",
+    "text": "Got a call from someone claiming to be HDFC Bank, asked to install HDFC KYC Verify app for KYC update. After sharing OTP, ₹5,000 was debited from my account.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "9123456780"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "CA-0024",
+    "text": "HDFC Bank KYC verification ke naam pe fraud hua. HDFC KYC Verify app se OTP liya aur ₹50,000 le gaye.",
+    "upi_ids_raw": [
+      "sbi.update2024@oksbi",
+      "hdfc.verify@paytm"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "CA-0018",
+    "text": "Maine HDFC KYC Verify app install kiya bank ke naam pe, phir unka agent UPI se ₹25,000 le gaya.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "8899001122"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "CC-0022",
+    "text": "SEBI Trading platform pe ₹10,000 invest kiya. Profits dikh rahe the. Withdrawal ke liye ₹5,000 tax maangi.",
+    "upi_ids_raw": [
+      "stockpro.invest@ybl"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "en",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "CD-0036",
+    "text": "Got fake Flipkart delivery notification. Said package held at warehouse. Paid ₹75,000 redelivery charge. Total scam.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CA-0040",
+    "text": "HDFC wala bolke KYC ke liye call kiya, HDFC KYC Verify app download karwaya. Account se ₹75,000 gaye.",
+    "upi_ids_raw": [
+      "ravi.kyc@ybl"
+    ],
+    "phone_raw": [
+      "9876543210"
+    ],
+    "language": "hi",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "CB-0046",
+    "text": "Got SMS about instant loan from PM Loan App. Paid ₹10,000 processing fee. No loan disbursed. Phone unreachable now.",
+    "upi_ids_raw": [
+      "loan.help99@paytm"
+    ],
+    "phone_raw": [
+      "7766554433"
+    ],
+    "language": "en",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "CB-0016",
+    "text": "PM Loan App ne pehle ₹15,000 registration fee li, phir ₹3,000 legal fee maangi. Sab fraud tha.",
+    "upi_ids_raw": [
+      "easyloan.proc@ybl"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CD-0031",
+    "text": "Got SMS saying Amazon delivery failed. Clicked link, entered address and card details. ₹40,000 debited from account.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CB-0031",
+    "text": "Loan app Easy Loan Approval ne documents liye aur ₹35,000 advance charge kiya. No disbursement. Fraud hai.",
+    "upi_ids_raw": [
+      "pmloan.fee@oksbi"
+    ],
+    "phone_raw": [
+      "8877665544"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "CC-0010",
+    "text": "SEBI Trading app ne mutual fund ke naam pe ₹50,000 liye. Profit dikha raha hai lekin withdraw nahi ho raha.",
+    "upi_ids_raw": [
+      "sebi.trade24@oksbi"
+    ],
+    "phone_raw": [
+      "7272727272"
+    ],
+    "language": "en",
+    "date": "2026-06-01"
+  }
+]
