@@ -37,7 +37,7 @@ def _print_header(title: str) -> None:
 
 
 def _campaign_prefix(complaint_id: str) -> str:
-    """Extract the campaign prefix from a complaint ID, e.g. 'CA' from 'CA-0009'."""
+    """Extract the campaign prefix from a complaint ID, e.g. 'CA-0009' -> 'A'."""
     return complaint_id.split("-")[0][1:]  # 'CA-0009' -> 'A'
 
 
@@ -177,7 +177,7 @@ def main() -> None:
             print(f"    Date range: {cc_dates[0].date()} -> {cc_dates[-1].date()}")
             print(f"    Total dated complaints: {len(cc_dates)}")
 
-            # Find gaps ≥ 7 days
+            # Find gaps >= 7 days
             DORMANCY_DAYS = 7
             gaps = []
             for i in range(1, len(cc_dates)):

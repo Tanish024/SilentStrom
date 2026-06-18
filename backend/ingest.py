@@ -46,8 +46,8 @@ def run_pipeline(complaints: list[dict[str, Any]] | None = None) -> dict[str, An
     # embeddings = embed_complaints(complaints)
 
     # Step 3 — Clustering
-    # TODO: from clusterer import cluster
-    # labels = cluster(embeddings)
+    # TODO: from clusterer import run_clustering
+    # labels = run_clustering(embeddings)
 
     # Step 4 — Graph construction
     # TODO: from graph_builder import build_graph
