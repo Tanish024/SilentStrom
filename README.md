@@ -177,7 +177,10 @@ run_clustering(
 
 ## 👥 Team
 
-- **Tanish Mehta** — Core development (Phases 1–3)
+- **Tanish Mehta**
+- **Punya**
+- **Harsh**
+- **Amisha**
 
 ---
 
