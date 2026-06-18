@@ -36,30 +36,6 @@
     "date": "2026-05-13"
   },
   {
-    "id": "CD-0054",
-    "text": "Flipkart Delivery Failed SMS mila. Reschedule button pe click kiya. Fake payment page se ₹45,000 kata.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "en",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "CD-0045",
-    "text": "Amazon Delivery Failed phishing — clicked link, page asked for net banking login. ₹18,000 transferred out.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "en",
-    "date": "2026-05-18"
-  },
-  {
     "id": "CC-0040",
     "text": "SEBI Trading se SIP jaise invest kiya ₹75,000. Dashboard me ₹1,500 dikh raha hai but withdrawal pe aur fee maang rahe.",
     "upi_ids_raw": [
@@ -71,18 +47,6 @@
     ],
     "language": "hi-en",
     "date": "2026-05-04"
-  },
-  {
-    "id": "CD-0037",
-    "text": "Amazon parcel failed delivery ka message WhatsApp pe aaya. Link pe jaake details diye. ₹30,000 stolen.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-17"
   },
   {
     "id": "CA-0043",
@@ -110,18 +74,6 @@
     "date": "2026-05-11"
   },
   {
-    "id": "CD-0053",
-    "text": "Amazon package undelivered ka email. Link pe jaake bank details di. ₹30,000 immediately debited ho gaye.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-15"
-  },
-  {
     "id": "CC-0029",
     "text": "Friend referred Stock Profit Pro for crypto trading. Put ₹20,000 in. Fake dashboard shows profits. Money is stuck.",
     "upi_ids_raw": [
@@ -133,30 +85,6 @@
     ],
     "language": "en",
     "date": "2026-05-04"
-  },
-  {
-    "id": "CD-0038",
-    "text": "Flipkart Delivery Failed email mila with tracking number. Clicked reschedule, entered UPI, ₹75,000 debited.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi",
-    "date": "2026-05-15"
-  },
-  {
-    "id": "CD-0050",
-    "text": "Flipkart se delivery failed ka automated call aaya. IVR me details diye. ₹50,000 ka unauthorized charge hua.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "en",
-    "date": "2026-05-02"
   },
   {
     "id": "CB-0034",
@@ -194,18 +122,6 @@
     ],
     "language": "hi",
     "date": "2026-05-26"
-  },
-  {
-    "id": "CD-0002",
-    "text": "Flipkart delivery failed ka message aaya. Form fill kiya with UPI PIN. Account se ₹10,000 kat gaye.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "en",
-    "date": "2026-06-01"
   },
   {
     "id": "CC-0016",
@@ -269,30 +185,6 @@
     "date": "2026-05-08"
   },
   {
-    "id": "CD-0047",
-    "text": "Amazon se call aaya delivery failed hai, refund ke liye app install karo. App installed karke ₹35,000 le gaye.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "en",
-    "date": "2026-05-16"
-  },
-  {
-    "id": "CD-0046",
-    "text": "Flipkart parcel delivery failed ka SMS. Paid ₹75,000 customs/redelivery on fake page. Money gone.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-14"
-  },
-  {
     "id": "CB-0010",
     "text": "PM Loan App ka ad dekha Instagram pe. Loan ke liye apply kiya, ₹10,000 registration fee li, scam nikla.",
     "upi_ids_raw": [
@@ -303,18 +195,6 @@
     ],
     "language": "en",
     "date": "2026-05-26"
-  },
-  {
-    "id": "CD-0034",
-    "text": "Flipkart se delivery attempt failed ka mail aaya. Link open kiya, OTP diya aur ₹30,000 fraud hua.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-05-31"
   },
   {
     "id": "CA-0010",
@@ -404,18 +284,6 @@
     "date": "2026-05-07"
   },
   {
-    "id": "CD-0015",
-    "text": "Amazon Delivery Failed phishing — clicked link, page asked for net banking login. ₹5,000 transferred out.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "en",
-    "date": "2026-05-10"
-  },
-  {
     "id": "CC-0012",
     "text": "SEBI Trading platform asked ₹35,000 initial investment. After 2 weeks demanded ₹4,500 upgrade fee for withdrawal access.",
     "upi_ids_raw": [
@@ -479,31 +347,6 @@
     "date": "2026-05-25"
   },
   {
-    "id": "CD-0028",
-    "text": "Flipkart delivery failed. Refund ke liye call kiya toh fake customer care ne ₹18,000 le liye UPI se.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi",
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-05-26"
-  },
-  {
-    "id": "CD-0012",
-    "text": "Flipkart Delivery Failed ka notification aaya. Reschedule ke liye ₹35,000 pay kiya. Order toh exist hi nahi karta.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi",
-    "date": "2026-05-03"
-  },
-  {
     "id": "CC-0002",
     "text": "SEBI Trading platform pe ₹35,000 invest kiya. Profits dikh rahe the. Withdrawal ke liye ₹2,500 tax maangi.",
     "upi_ids_raw": [
@@ -539,18 +382,6 @@
     ],
     "language": "en",
     "date": "2026-05-05"
-  },
-  {
-    "id": "CD-0059",
-    "text": "Received Amazon Delivery Failed text with link. Page asked phone number and OTP. ₹8,000 debited.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-05-15"
   },
   {
     "id": "CA-0019",
@@ -590,18 +421,6 @@
     "date": "2026-05-02"
   },
   {
-    "id": "CD-0005",
-    "text": "Amazon Delivery Failed SMS se phishing link tha. Address confirm karne pe UPI se ₹75,000 nikal gaye.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-19"
-  },
-  {
     "id": "CB-0012",
     "text": "PM Loan App offered pre-approved loan. Required ₹35,000 stamp duty via UPI. Money gone, no loan received.",
     "upi_ids_raw": [
@@ -624,18 +443,6 @@
     ],
     "language": "en",
     "date": "2026-05-04"
-  },
-  {
-    "id": "CD-0013",
-    "text": "Amazon se delivery failed bola. WhatsApp pe link bheja. Address update karne pe ₹25,000 deducted via UPI.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-05-10"
   },
   {
     "id": "CC-0025",
@@ -687,19 +494,6 @@
     "date": "2026-05-07"
   },
   {
-    "id": "CD-0001",
-    "text": "Got SMS saying Amazon delivery failed. Clicked link, entered address and card details. ₹35,000 debited from account.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi",
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi",
-    "date": "2026-05-14"
-  },
-  {
     "id": "CB-0032",
     "text": "PM Loan App offered pre-approved loan. Required ₹45,000 stamp duty via UPI. Money gone, no loan received.",
     "upi_ids_raw": [
@@ -736,19 +530,6 @@
     ],
     "language": "hi-en",
     "date": "2026-05-26"
-  },
-  {
-    "id": "CD-0026",
-    "text": "Flipkart se bola delivery fail, ₹25,000 re-attempt fee do. UPI se pay kiya. Order number fake tha.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi",
-    "date": "2026-05-17"
   },
   {
     "id": "CA-0026",
@@ -788,18 +569,6 @@
     "date": "2026-05-22"
   },
   {
-    "id": "CD-0016",
-    "text": "Flipkart parcel delivery failed ka SMS. Paid ₹50,000 customs/redelivery on fake page. Money gone.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-26"
-  },
-  {
     "id": "CA-0049",
     "text": "SBI KYC Verify naam ka app tha, install karne ke baad screen sharing start ho gayi aur ₹25,000 nikal liye account se.",
     "upi_ids_raw": [
@@ -837,19 +606,6 @@
     "date": "2026-05-25"
   },
   {
-    "id": "CD-0017",
-    "text": "Amazon se call aaya delivery failed hai, refund ke liye app install karo. App installed karke ₹75,000 le gaye.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm",
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-21"
-  },
-  {
     "id": "CB-0014",
     "text": "PM Loan App pe loan approved status tha. ₹50,000 insurance mandatory bola. Paid and app stopped working.",
     "upi_ids_raw": [
@@ -872,32 +628,6 @@
     ],
     "language": "hi-en",
     "date": "2026-05-10"
-  },
-  {
-    "id": "CD-0043",
-    "text": "Amazon se delivery failed bola. WhatsApp pe link bheja. Address update karne pe ₹8,000 deducted via UPI.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-03"
-  },
-  {
-    "id": "CD-0022",
-    "text": "Flipkart wala bolke call kiya, delivery failed hai refund denge. UPI collect bheja ₹12,000 ka. Galti se approve kar diya.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm",
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "en",
-    "date": "2026-05-11"
   },
   {
     "id": "CA-0038",
@@ -958,18 +688,6 @@
       "9876543210"
     ],
     "language": "en",
-    "date": "2026-05-16"
-  },
-  {
-    "id": "CD-0027",
-    "text": "Amazon Delivery Failed SMS laga genuine. Link pe address update karne gaya. Background me ₹12,000 UPI se nikal gaye.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi",
     "date": "2026-05-16"
   },
   {
@@ -1122,19 +840,6 @@
     "date": "2026-05-01"
   },
   {
-    "id": "CD-0048",
-    "text": "Flipkart Delivery Failed notification mila. Verification ke liye OTP diya. Account se ₹12,000 nikal liye.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-05-15"
-  },
-  {
     "id": "CC-0036",
     "text": "SEBI Trading app had my PAN and bank details. They invested ₹5,000 and now claim ₹3,500 penalty for early exit.",
     "upi_ids_raw": [
@@ -1198,18 +903,6 @@
     "date": "2026-05-29"
   },
   {
-    "id": "CD-0057",
-    "text": "Amazon Delivery Failed SMS laga genuine. Link pe address update karne gaya. Background me ₹8,000 UPI se nikal gaye.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-06-05"
-  },
-  {
     "id": "CC-0018",
     "text": "SEBI Trading pe gold trading ka plan tha. ₹15,000 invest kiya. Withdrawal locked. Support number is fake.",
     "upi_ids_raw": [
@@ -1220,30 +913,6 @@
     ],
     "language": "en",
     "date": "2026-05-04"
-  },
-  {
-    "id": "CD-0020",
-    "text": "Flipkart se delivery failed ka automated call aaya. IVR me details diye. ₹50,000 ka unauthorized charge hua.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "en",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "CD-0033",
-    "text": "Amazon Delivery Failed ka SMS mila. Link pe click kiya, reschedule ke liye ₹20,000 charge hua aur paise chale gaye.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-06-04"
   },
   {
     "id": "CB-0004",
@@ -1296,32 +965,6 @@
     "date": "2026-05-26"
   },
   {
-    "id": "CD-0024",
-    "text": "Flipkart Delivery Failed SMS mila. Reschedule button pe click kiya. Fake payment page se ₹12,000 kata.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "CD-0039",
-    "text": "Amazon Delivery Failed SMS with fake tracking link. Entered card CVV for verification. ₹35,000 unauthorized transaction.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-30"
-  },
-  {
     "id": "CB-0007",
     "text": "Easy Loan Approval app said my CIBIL is approved for ₹5 lakh loan. Asked ₹5,000 file charge. Total scam.",
     "upi_ids_raw": [
@@ -1359,43 +1002,6 @@
     "date": "2026-05-27"
   },
   {
-    "id": "CD-0010",
-    "text": "Flipkart delivery issue ka call aaya. Agent ne refund ke baahane UPI collect request bheja. ₹40,000 chala gaya.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "CD-0025",
-    "text": "Got Amazon delivery issue call. Caller asked to share screen via AnyDesk for refund. They transferred ₹1,00,000 out.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "en",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "CD-0042",
-    "text": "Flipkart Delivery Failed ka notification aaya. Reschedule ke liye ₹25,000 pay kiya. Order toh exist hi nahi karta.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm",
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi",
-    "date": "2026-05-10"
-  },
-  {
     "id": "CC-0032",
     "text": "SEBI Trading platform asked ₹75,000 initial investment. After 2 weeks demanded ₹2,500 upgrade fee for withdrawal access.",
     "upi_ids_raw": [
@@ -1431,18 +1037,6 @@
     ],
     "language": "hi-en",
     "date": "2026-05-22"
-  },
-  {
-    "id": "CD-0009",
-    "text": "Amazon Delivery Failed SMS with fake tracking link. Entered card CVV for verification. ₹75,000 unauthorized transaction.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-20"
   },
   {
     "id": "CC-0014",
@@ -1544,19 +1138,6 @@
     "date": "2026-05-24"
   },
   {
-    "id": "CD-0023",
-    "text": "Amazon package undelivered ka email. Link pe jaake bank details di. ₹35,000 immediately debited ho gaye.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm",
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-06-01"
-  },
-  {
     "id": "CA-0048",
     "text": "Received call from +91-9123456780 about HDFC KYC. Installed HDFC KYC Verify and shared OTP. ₹12,000 stolen from my savings.",
     "upi_ids_raw": [
@@ -1642,30 +1223,6 @@
     "date": "2026-05-14"
   },
   {
-    "id": "CD-0049",
-    "text": "Fake Amazon delivery SMS. Link looked legit. Entered debit card info for redelivery. ₹50,000 debited next day.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-09"
-  },
-  {
-    "id": "CD-0030",
-    "text": "Flipkart Delivery Failed ka WhatsApp msg. Link se form bhara, card details diye. ₹50,000 ka transaction hua.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-13"
-  },
-  {
     "id": "CC-0039",
     "text": "Stock Profit Pro Telegram group me add kiya. Daily tips diye, ₹20,000 invest karwaya. Sab fraud nikla.",
     "upi_ids_raw": [
@@ -1676,19 +1233,6 @@
     ],
     "language": "hi",
     "date": "2026-05-06"
-  },
-  {
-    "id": "CD-0052",
-    "text": "Flipkart wala bolke call kiya, delivery failed hai refund denge. UPI collect bheja ₹10,000 ka. Galti se approve kar diya.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi",
-    "date": "2026-05-31"
   },
   {
     "id": "CC-0003",
@@ -1715,18 +1259,6 @@
     "date": "2026-05-15"
   },
   {
-    "id": "CD-0006",
-    "text": "Got fake Flipkart delivery notification. Said package held at warehouse. Paid ₹15,000 redelivery charge. Total scam.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-05-16"
-  },
-  {
     "id": "CA-0002",
     "text": "Got a call from someone claiming to be HDFC Bank, asked to install HDFC KYC Verify app for KYC update. After sharing OTP, ₹8,000 was debited from my account.",
     "upi_ids_raw": [
@@ -1740,18 +1272,6 @@
     "date": "2026-05-01"
   },
   {
-    "id": "CD-0019",
-    "text": "Fake Amazon delivery SMS. Link looked legit. Entered debit card info for redelivery. ₹1,00,000 debited next day.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi",
-    "date": "2026-05-06"
-  },
-  {
     "id": "CB-0037",
     "text": "Easy Loan Approval told me CIBIL verified, loan ready. Just pay ₹15,000 disbursement charge. Paid, nothing happened.",
     "upi_ids_raw": [
@@ -1763,19 +1283,6 @@
     ],
     "language": "en",
     "date": "2026-05-21"
-  },
-  {
-    "id": "CD-0029",
-    "text": "Received Amazon Delivery Failed text with link. Page asked phone number and OTP. ₹35,000 debited.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm",
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "en",
-    "date": "2026-05-19"
   },
   {
     "id": "CB-0020",
@@ -1839,67 +1346,6 @@
     "date": "2026-05-10"
   },
   {
-    "id": "CD-0018",
-    "text": "Flipkart Delivery Failed notification mila. Verification ke liye OTP diya. Account se ₹1,00,000 nikal liye.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-16"
-  },
-  {
-    "id": "CD-0040",
-    "text": "Flipkart delivery issue ka call aaya. Agent ne refund ke baahane UPI collect request bheja. ₹40,000 chala gaya.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "en",
-    "date": "2026-05-03"
-  },
-  {
-    "id": "CD-0060",
-    "text": "Flipkart Delivery Failed ka WhatsApp msg. Link se form bhara, card details diye. ₹75,000 ka transaction hua.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "CD-0021",
-    "text": "Amazon Delivery Failed ke naam pe SMS link bheja. Maine click kiya aur card details diye. ₹18,000 fraud hua.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "CD-0007",
-    "text": "Amazon parcel failed delivery ka message WhatsApp pe aaya. Link pe jaake details diye. ₹10,000 stolen.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi-en",
-    "date": "2026-06-02"
-  },
-  {
     "id": "CB-0022",
     "text": "PM Loan App se loan apply kiya tha. ₹30,000 advance fee maangi, bheja, phir number band ho gaya.",
     "upi_ids_raw": [
@@ -1935,18 +1381,6 @@
     ],
     "language": "hi",
     "date": "2026-05-22"
-  },
-  {
-    "id": "CD-0044",
-    "text": "Got Flipkart delivery attempt failed SMS. Entered details on phishing site. ₹12,000 taken from my bank.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "en",
-    "date": "2026-05-24"
   },
   {
     "id": "CB-0040",
@@ -1999,18 +1433,6 @@
     "date": "2026-05-23"
   },
   {
-    "id": "CD-0055",
-    "text": "Got Amazon delivery issue call. Caller asked to share screen via AnyDesk for refund. They transferred ₹75,000 out.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi",
-    "date": "2026-05-07"
-  },
-  {
     "id": "CB-0005",
     "text": "Loan ke liye Easy Loan Approval pe apply kiya, ₹18,000 GST fee ke naam pe liya aur loan kabhi nahi mila.",
     "upi_ids_raw": [
@@ -2036,18 +1458,6 @@
     "date": "2026-05-05"
   },
   {
-    "id": "CD-0008",
-    "text": "Flipkart Delivery Failed email mila with tracking number. Clicked reschedule, entered UPI, ₹75,000 debited.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-22"
-  },
-  {
     "id": "CA-0027",
     "text": "Fake SBI customer care ne KYC ke naam pe SBI KYC Verify app install karwaya. ₹40,000 ka fraud hua meri UPI ID se.",
     "upi_ids_raw": [
@@ -2061,18 +1471,6 @@
     "date": "2026-05-17"
   },
   {
-    "id": "CD-0035",
-    "text": "Amazon Delivery Failed SMS se phishing link tha. Address confirm karne pe UPI se ₹75,000 nikal gaye.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "en",
-    "date": "2026-05-05"
-  },
-  {
     "id": "CB-0030",
     "text": "PM Loan App ka ad dekha Instagram pe. Loan ke liye apply kiya, ₹50,000 registration fee li, scam nikla.",
     "upi_ids_raw": [
@@ -2083,18 +1481,6 @@
     ],
     "language": "en",
     "date": "2026-05-02"
-  },
-  {
-    "id": "CD-0014",
-    "text": "Got Flipkart delivery attempt failed SMS. Entered details on phishing site. ₹10,000 taken from my bank.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-07"
   },
   {
     "id": "CB-0024",
@@ -2131,18 +1517,6 @@
     ],
     "language": "en",
     "date": "2026-05-11"
-  },
-  {
-    "id": "CD-0058",
-    "text": "Flipkart delivery failed. Refund ke liye call kiya toh fake customer care ne ₹20,000 le liye UPI se.",
-    "upi_ids_raw": [
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "en",
-    "date": "2026-05-28"
   },
   {
     "id": "CB-0041",
@@ -2182,19 +1556,6 @@
     "date": "2026-05-16"
   },
   {
-    "id": "CD-0032",
-    "text": "Flipkart delivery failed ka message aaya. Form fill kiya with UPI PIN. Account se ₹35,000 kat gaye.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi",
-    "date": "2026-05-19"
-  },
-  {
     "id": "CB-0035",
     "text": "Applied through Easy Loan Approval for emergency loan. Paid ₹10,000 for credit check. Total fraud, blocked my number.",
     "upi_ids_raw": [
@@ -2206,42 +1567,6 @@
     ],
     "language": "hi",
     "date": "2026-05-25"
-  },
-  {
-    "id": "CD-0041",
-    "text": "Fake Amazon delivery failed text. Link opened a page that looked exactly like Amazon. Entered details, lost ₹25,000.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "en",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "CD-0004",
-    "text": "Flipkart se delivery attempt failed ka mail aaya. Link open kiya, OTP diya aur ₹20,000 fraud hua.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "en",
-    "date": "2026-05-30"
-  },
-  {
-    "id": "CD-0011",
-    "text": "Fake Amazon delivery failed text. Link opened a page that looked exactly like Amazon. Entered details, lost ₹18,000.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-13"
   },
   {
     "id": "CA-0016",
@@ -2256,19 +1581,6 @@
     "date": "2026-05-24"
   },
   {
-    "id": "CD-0003",
-    "text": "Amazon Delivery Failed ka SMS mila. Link pe click kiya, reschedule ke liye ₹40,000 charge hua aur paise chale gaye.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl",
-      "amz.help2024@oksbi"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "en",
-    "date": "2026-06-05"
-  },
-  {
     "id": "CA-0034",
     "text": "SBI se bolke KYC re-verification ke liye call kiya. SBI KYC Verify app se personal details liye aur ₹8,000 chori.",
     "upi_ids_raw": [
@@ -2280,18 +1592,6 @@
     ],
     "language": "en",
     "date": "2026-05-14"
-  },
-  {
-    "id": "CD-0056",
-    "text": "Flipkart se bola delivery fail, ₹1,00,000 re-attempt fee do. UPI se pay kiya. Order number fake tha.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "7567890123"
-    ],
-    "language": "hi-en",
-    "date": "2026-05-21"
   },
   {
     "id": "CA-0025",
@@ -2316,19 +1616,6 @@
     ],
     "language": "en",
     "date": "2026-05-26"
-  },
-  {
-    "id": "CD-0051",
-    "text": "Amazon Delivery Failed ke naam pe SMS link bheja. Maine click kiya aur card details diye. ₹18,000 fraud hua.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi",
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "hi",
-    "date": "2026-05-12"
   },
   {
     "id": "CA-0022",
@@ -2381,19 +1668,6 @@
     "date": "2026-05-30"
   },
   {
-    "id": "CD-0036",
-    "text": "Got fake Flipkart delivery notification. Said package held at warehouse. Paid ₹75,000 redelivery charge. Total scam.",
-    "upi_ids_raw": [
-      "amz.help2024@oksbi",
-      "delivery.refund@ybl"
-    ],
-    "phone_raw": [
-      "9345678901"
-    ],
-    "language": "en",
-    "date": "2026-05-26"
-  },
-  {
     "id": "CA-0040",
     "text": "HDFC wala bolke KYC ke liye call kiya, HDFC KYC Verify app download karwaya. Account se ₹75,000 gaye.",
     "upi_ids_raw": [
@@ -2430,19 +1704,6 @@
     "date": "2026-05-22"
   },
   {
-    "id": "CD-0031",
-    "text": "Got SMS saying Amazon delivery failed. Clicked link, entered address and card details. ₹40,000 debited from account.",
-    "upi_ids_raw": [
-      "delivery.refund@ybl",
-      "fkrt.return@paytm"
-    ],
-    "phone_raw": [
-      "8456789012"
-    ],
-    "language": "hi",
-    "date": "2026-05-20"
-  },
-  {
     "id": "CB-0031",
     "text": "Loan app Easy Loan Approval ne documents liye aur ₹35,000 advance charge kiya. No disbursement. Fraud hai.",
     "upi_ids_raw": [
@@ -2465,5 +1726,375 @@
     ],
     "language": "en",
     "date": "2026-06-01"
+  },
+  {
+    "id": "CD-0001",
+    "text": "Got SMS saying Amazon delivery failed. Clicked link, entered address and card details. ₹35,000 debited from account.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "CD-0002",
+    "text": "Flipkart delivery failed ka message aaya. Form fill kiya with UPI PIN. Account se ₹10,000 kat gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "en",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "CD-0003",
+    "text": "Amazon Delivery Failed ka SMS mila. Link pe click kiya, reschedule ke liye ₹40,000 charge hua aur paise chale gaye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "CD-0004",
+    "text": "Flipkart se delivery attempt failed ka mail aaya. Link open kiya, OTP diya aur ₹20,000 fraud hua.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "en",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "CD-0005",
+    "text": "Amazon Delivery Failed SMS se phishing link tha. Address confirm karne pe UPI se ₹75,000 nikal gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "CD-0006",
+    "text": "Got fake Flipkart delivery notification. Said package held at warehouse. Paid ₹15,000 redelivery charge. Total scam.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CD-0007",
+    "text": "Amazon parcel failed delivery ka message WhatsApp pe aaya. Link pe jaake details diye. ₹10,000 stolen.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "CD-0008",
+    "text": "Flipkart Delivery Failed email mila with tracking number. Clicked reschedule, entered UPI, ₹75,000 debited.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "CD-0009",
+    "text": "Amazon Delivery Failed SMS with fake tracking link. Entered card CVV for verification. ₹75,000 unauthorized transaction.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CD-0010",
+    "text": "Flipkart delivery issue ka call aaya. Agent ne refund ke baahane UPI collect request bheja. ₹40,000 chala gaya.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "CD-0011",
+    "text": "Fake Amazon delivery failed text. Link opened a page that looked exactly like Amazon. Entered details, lost ₹18,000.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "CD-0012",
+    "text": "Flipkart Delivery Failed ka notification aaya. Reschedule ke liye ₹35,000 pay kiya. Order toh exist hi nahi karta.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "CD-0013",
+    "text": "Amazon se delivery failed bola. WhatsApp pe link bheja. Address update karne pe ₹25,000 deducted via UPI.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CD-0014",
+    "text": "Got Flipkart delivery attempt failed SMS. Entered details on phishing site. ₹10,000 taken from my bank.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "CD-0015",
+    "text": "Amazon Delivery Failed phishing — clicked link, page asked for net banking login. ₹5,000 transferred out.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "en",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "CD-0016",
+    "text": "Flipkart parcel delivery failed ka SMS. Paid ₹50,000 customs/redelivery on fake page. Money gone.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0017",
+    "text": "Amazon se call aaya delivery failed hai, refund ke liye app install karo. App installed karke ₹75,000 le gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "CD-0018",
+    "text": "Flipkart Delivery Failed notification mila. Verification ke liye OTP diya. Account se ₹1,00,000 nikal liye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CD-0019",
+    "text": "Fake Amazon delivery SMS. Link looked legit. Entered debit card info for redelivery. ₹1,00,000 debited next day.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "CD-0020",
+    "text": "Flipkart se delivery failed ka automated call aaya. IVR me details diye. ₹50,000 ka unauthorized charge hua.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "CD-0021",
+    "text": "Amazon Delivery Failed ke naam pe SMS link bheja. Maine click kiya aur card details diye. ₹18,000 fraud hua.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "CD-0022",
+    "text": "Flipkart wala bolke call kiya, delivery failed hai refund denge. UPI collect bheja ₹12,000 ka. Galti se approve kar diya.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "CD-0023",
+    "text": "Amazon package undelivered ka email. Link pe jaake bank details di. ₹35,000 immediately debited ho gaye.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "CD-0024",
+    "text": "Flipkart Delivery Failed SMS mila. Reschedule button pe click kiya. Fake payment page se ₹12,000 kata.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CD-0025",
+    "text": "Got Amazon delivery issue call. Caller asked to share screen via AnyDesk for refund. They transferred ₹1,00,000 out.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "CD-0026",
+    "text": "Flipkart se bola delivery fail, ₹25,000 re-attempt fee do. UPI se pay kiya. Order number fake tha.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "hi",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "CD-0027",
+    "text": "Amazon Delivery Failed SMS laga genuine. Link pe address update karne gaya. Background me ₹12,000 UPI se nikal gaye.",
+    "upi_ids_raw": [
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "8456789012"
+    ],
+    "language": "hi",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "CD-0028",
+    "text": "Flipkart delivery failed. Refund ke liye call kiya toh fake customer care ne ₹18,000 le liye UPI se.",
+    "upi_ids_raw": [
+      "amz.help2024@oksbi",
+      "delivery.refund@ybl"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CD-0029",
+    "text": "Received Amazon Delivery Failed text with link. Page asked phone number and OTP. ₹35,000 debited.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm",
+      "amz.help2024@oksbi"
+    ],
+    "phone_raw": [
+      "9345678901"
+    ],
+    "language": "en",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "CD-0030",
+    "text": "Flipkart Delivery Failed ka WhatsApp msg. Link se form bhara, card details diye. ₹50,000 ka transaction hua.",
+    "upi_ids_raw": [
+      "fkrt.return@paytm"
+    ],
+    "phone_raw": [
+      "7567890123"
+    ],
+    "language": "hi-en",
+    "date": "2026-05-13"
   }
 ]
