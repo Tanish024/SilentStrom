@@ -123,7 +123,14 @@ def detect_lifecycle_stage(timeline: list[dict[str, Any]]) -> str:
     if total_span < 3:
         return "birth"
 
-    # ── Dormant: large gap at the end ─────────────────────────────────
+    # ── Dormant: no recent activity ───────────────────────────────────
+    # Check if the gap from the LAST complaint date to TODAY >= threshold
+    # This catches campaigns that simply stopped receiving complaints.
+    today = datetime.now()
+    days_since_last = (today - dates[-1]).days
+    if days_since_last >= DORMANCY_THRESHOLD_DAYS:
+        return "dormant"
+
     # Check if the gap between the last two entries is >= threshold
     if len(dates) >= 2:
         last_gap = (dates[-1] - dates[-2]).days
